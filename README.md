@@ -1,7 +1,7 @@
 How to parse files
 ==================
 
-1. Download the <a href="https://drive.google.com/open?id=1irf-ojO_RuTRQigDempJp3J2KxSRkoeF" download target="_blank">parserUUID2int.exe</a>
+1. Download the <a href="https://drive.google.com/file/d/1iGUyZs62cGkaetY9COsGGQoS_R0Y9Io6/view?usp=sharing" download target="_blank">parserUUID2int.exe</a>
 2. Copy source files in the same directory.
 3. Run the parserUUID2int.exe
 
