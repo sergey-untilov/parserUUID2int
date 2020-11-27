@@ -9,7 +9,7 @@ from src.parse import parse
 
 
 DESCRIPTION = 'The UUID as a 128-bit integer'
-VERSION = '0.1 (27.11.2020)'
+VERSION = '1.0 (27.11.2020)'
 AUTHOR = 'Serhii Untilov'
 
 
